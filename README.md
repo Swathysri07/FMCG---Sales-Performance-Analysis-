@@ -22,3 +22,4 @@ Analyze daily sales data across regions and product categories to uncover trends
 *(Insert screenshot of your Power BI dashboard here)*
 
 ## 📁 Project Structure
+   FMCG_Sales_Trend_Analysis/ ├── data/ │ └── fmcg_sales.csv ├── notebooks/ │ └── sales_trend_analysis.ipynb ├── sql/ │ └── monthly_sales_by_region.sql ├── visuals/ │ └── dashboard_screenshot.png ├── README.md
